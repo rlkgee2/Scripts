@@ -9,3 +9,8 @@ sonar.test.exclusions=**/test/java/servlet/createpage_junit.java
 sonar.login=admin
 sonar.password=password
 
+
+
+
+c6a413be1c4c7e980baa329aaff4da2d0c38a143
+
